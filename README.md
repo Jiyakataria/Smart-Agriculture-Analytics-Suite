@@ -95,7 +95,7 @@ This dashboard provides an overview of agricultural market stability through var
 
 ### Dashboard Preview
 
-![Module 1](assets/module1.png)
+![Module 1](Assets/Module1.png)
 
 ---
 
@@ -114,7 +114,7 @@ This dashboard analyzes seasonal crop price behavior and identifies the best sel
 
 ### Dashboard Preview
 
-![Module 2](assets/module2.png)
+![Module 2](Assets/Module2.png)
 
 ---
 
@@ -133,7 +133,7 @@ This dashboard focuses on weather analytics and climate-related agricultural ris
 
 ### Dashboard Preview
 
-![Module 3](assets/module3.png)
+![Module 3](Assets/Module3.png)
 
 ---
 
@@ -152,7 +152,7 @@ This dashboard analyzes the relationship between rainfall patterns and agricultu
 
 ### Dashboard Preview
 
-![Module 4](assets/module4.png)
+![Module 4](Assets/Module4.png)
 
 ---
 
